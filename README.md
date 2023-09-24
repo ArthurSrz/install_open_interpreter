@@ -77,7 +77,7 @@ Pourquoi le "--fast" ? Parce que cela va permettre d'allumer Open interpreter su
 
 ## Sixième étape : Dire bonjour à Open Interpreter et lui poser une première question
 
-
+Voir un exemple dans la vidéo (à télécharger)
 
 https://github.com/ArthurSrz/install_open_interpreter/assets/55806298/4139400c-8075-41bc-a331-274b0501c896
 
