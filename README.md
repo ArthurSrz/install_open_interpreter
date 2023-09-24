@@ -9,7 +9,7 @@
 
 Tu vas devoir te créer une clé qui pour accéder à un modèle de langage (GPT) qui va jouer le rôle de moteur dans Open Interpreter. Sans modèle de langage, tu ne pourras pas parler à l'interpreter, ce qui ne servirait à rien. 
 
-Pour faire, utilise tes capacités mimétiques, connecte toi au [site d'Open AI](https://platform.openai.com/) et suis le process dans cette vidéo 
+Pour faire, utilise tes capacités mimétiques, connecte toi au [site d'Open AI](https://platform.openai.com/) et suis le process dans cette vidéo (à télécharger)
 
 
 https://github.com/ArthurSrz/install_open_interpreter/assets/55806298/5358b8bf-4b34-419a-89bc-072e99b71c24
