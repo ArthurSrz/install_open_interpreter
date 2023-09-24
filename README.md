@@ -11,7 +11,9 @@ Tu vas devoir te créer une clé qui pour accéder à un modèle de langage (GPT
 
 Pour faire, utilise tes capacités mimétiques et suis le process dans cette vidéo 
 
-<video src='https://github.com/ArthurSrz/install_open_interpreter/raw/main/media/step1_video.mov' width=180/>
+
+https://github.com/ArthurSrz/install_open_interpreter/assets/55806298/5358b8bf-4b34-419a-89bc-072e99b71c24
+
 
 
 ## Deuxième étape : faire ouvrir la bouche à ton ordinateur
@@ -75,7 +77,11 @@ Pourquoi le "--fast" ? Parce que cela va permettre d'allumer Open interpreter su
 
 ## Sixième étape : Dire bonjour à Open Interpreter et lui poser une première question
 
-<video src='https://github.com/ArthurSrz/install_open_interpreter/raw/main/media/step6.mov' width=180/>
+
+
+https://github.com/ArthurSrz/install_open_interpreter/assets/55806298/4139400c-8075-41bc-a331-274b0501c896
+
+
 
 ## Septième étape : réaliser tout ce que vous allez pouvoir faire maintenant.
 
