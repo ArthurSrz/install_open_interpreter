@@ -12,7 +12,7 @@ Tu vas devoir te créer une clé qui pour accéder à un modèle de langage (GPT
 Pour faire, utilise tes capacités mimétiques, connecte toi au [site d'Open AI](https://platform.openai.com/) et suis le process dans cette vidéo (à télécharger)
 
 
-https://github.com/ArthurSrz/install_open_interpreter/assets/55806298/5358b8bf-4b34-419a-89bc-072e99b71c24
+[Ici](https://github.com/ArthurSrz/install_open_interpreter/raw/main/media/step1_video.mov)
 
 
 
@@ -79,7 +79,7 @@ Pourquoi le "--fast" ? Parce que cela va permettre d'allumer Open interpreter su
 
 Voir un exemple dans la vidéo (à télécharger)
 
-https://github.com/ArthurSrz/install_open_interpreter/assets/55806298/4139400c-8075-41bc-a331-274b0501c896
+[Ici](https://github.com/ArthurSrz/install_open_interpreter/raw/main/media/step6.mov)
 
 
 
